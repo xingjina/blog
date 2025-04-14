@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/en/categories/</loc>
+    <loc>https://xingjina.github.io/blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/blog/categories/"
+                href="https://xingjina.github.io/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/en/categories/"
+                href="https://xingjina.github.io/blog/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/tags/</loc>
+    <loc>https://xingjina.github.io/blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/blog/tags/"
+                href="https://xingjina.github.io/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/en/tags/"
+                href="https://xingjina.github.io/blog/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/</loc>
+    <loc>https://xingjina.github.io/blog/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/blog/"
+                href="https://xingjina.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/en/"
+                href="https://xingjina.github.io/blog/en/"
                 />
   </url>
 </urlset>
